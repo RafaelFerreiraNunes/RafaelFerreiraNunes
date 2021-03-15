@@ -9,3 +9,5 @@
 #### LG
 
 ##### OLED55CXPA
+
+#### Sony
